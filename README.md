@@ -1,4 +1,48 @@
-- 👋 Hi, I’m @ganesh42shrma, I am a Bengaluru-based software student pursuing my degree in Information Science Engineering at RNS Institute of Technology.
-- 👀 I’m interested in pursuing a career in software development. I am also very keen to explore different parts of the world. I consider trekking as a very therapeutic activity and love getting lost in the jungle. 
-- 🌱 As a Software student, some of my strengths include the concepts of Data Structures and Algorithms, Design and Analysis of Algorithms, DBMS, and Data warehousing and data mining(DW&DM). I have some knowledge of the front end and have worked with the Angular framework.
-- 📫 How to reach me - ganeshchannakrishnamsharma@gmail.com or +917760723199
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      color: #34495e;
+    }
+    a {
+      color: #3498db;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>👋 Hi, I’m @ganesh42shrma</h1>
+    <p>I am a Bengaluru-based software engineer who graduated with a degree in Computer Science Engineering from RNS Institute of Technology.</p>
+    <h2>👀 Interests</h2>
+    <p>I’m interested in pursuing a career in software development. I am also very keen to explore different parts of the world. I consider trekking a very therapeutic activity and love getting lost in the jungle.</p>
+    <h2>🌱 Skills</h2>
+    <p>As a software engineer, my strengths include:</p>
+    <ul>
+      <li>Data Structures and Algorithms</li>
+      <li>Design and Analysis of Algorithms</li>
+      <li>DBMS</li>
+      <li>Data Warehousing and Data Mining (DW&DM)</li>
+      <li>Front-end development with the Angular framework</li>
+      <li>Proficient in HTML, CSS, and React.js</li>
+    </ul>
+    <h2>📫 How to reach me</h2>
+    <p>Email: <a href="mailto:ganeshchannakrishnamsharma@gmail.com">ganeshchannakrishnamsharma@gmail.com</a></p>
+    <p>Phone: <a href="tel:+917760723199">+91 7760723199</a></p>
+  </div>
+</body>
+</html>
