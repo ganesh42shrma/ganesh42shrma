@@ -18,8 +18,8 @@
       <li>Design and Analysis of Algorithms</li>
       <li>DBMS</li>
       <li>Data Warehousing and Data Mining (DW&DM)</li>
-      <li>Front-end development with the Angular framework</li>
-      <li>Proficient in HTML, CSS, and React.js</li>
+      <li>Fullstack development with the React and Node framework</li>
+      <li>Proficient in JavaScript</li>
     </ul>
     <h2>📫 How to reach me</h2>
     <p>Email: <a href="mailto:ganeshchannakrishnamsharma@gmail.com">ganeshchannakrishnamsharma@gmail.com</a></p>
